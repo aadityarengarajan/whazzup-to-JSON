@@ -1,0 +1,9 @@
+{
+	"name" : "Whazzup to JSON",
+	"description" : "Converting IVAO API's Whazzup feed to JSON",
+	"created" : "29/3/2021",
+	"completed" : "true",
+	"modules" : ["requests,json"],
+	"hosting" : {"hosted" : "false"},
+	"code" : "WH-29032021-145259"
+}
